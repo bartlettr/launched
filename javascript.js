@@ -35,7 +35,8 @@ var buttonNames = [
 
 function button() {
   var randomNumber1 = Math.floor(Math.random() * (buttonNames.length));
-  var buttonValue = buttonNames[randomNumber1];
+  document.getElementById('buttonName').value = buttonNames[randomNumber1];
+  //var buttonValue = buttonNames[randomNumber1];
 }
 
 function newLink() {
