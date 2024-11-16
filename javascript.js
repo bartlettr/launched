@@ -27,6 +27,17 @@ var links = [
   'https://twitter.com/stopbeingthem/status/1542575842584174592' //Norris getting bopped in the face by Ricciardo to F1 theme
 ]
 
+var buttonNames = [
+  'LAUNCH',
+  'YEET',
+  'BLAST OFF'
+]
+
+function button() {
+  var randomNumber1 = Math.floor(Math.random() * (buttonNames.length));
+  var buttonValue = buttonNames[randomNumber1];
+}
+
 function newLink() {
   var randomNumber = Math.floor(Math.random() * (links.length));
   window.location.href = links[randomNumber];
