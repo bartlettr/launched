@@ -10,13 +10,19 @@ var links = [
   'https://www.instagram.com/reel/C7xpk8oNx90/?igsh=MWhsNGdrd2JibWhm', //small child on trampoline
   'https://www.youtube.com/shorts/VzY3WQhJc5U', //trampoline kid
   'https://www.youtube.com/watch?v=4LMuk4gAkqc', //Super Dave touchdown to dollars
+  'https://imgur.com/gallery/he-flew-like-rag-doll-JbMulju', //he flew like a rag doll
   'https://www.youtube.com/watch?v=BjKY9kYL57Y', //jet launch
   'https://www.instagram.com/reel/DBNLrXAureY/?igsh=MXgwOWFuMGJ1bGxoOA%3D%3D', //dog jumps on guy off trampoline
   'https://www.youtube.com/shorts/VWFA2ZTB8kw', //people launching a guy on a trampoline
   'https://www.youtube.com/watch?v=hgeviZ7rfdQ', //kid (and boot) getting launched snow tubing
   'https://www.youtube.com/watch?v=cs8gamnMIS0', //medieval trebuchet
+  'https://www.youtube.com/shorts/X8StCIy300I',
+  'https://www.youtube.com/watch?v=JWUyEl9qnh8', //man launches ball while diving
+  'https://www.youtube.com/watch?v=dBkQngrwXqg&t=48s', //Good Place dog into the sun
   'https://www.youtube.com/watch?v=QKMkhCsgsas', //wingsuit flight in Alps
+  'https://www.youtube.com/watch?v=RH1hZ7ECNok', //insanely high blob launch
   'https://www.youtube.com/watch?v=4B-kMtpGpn4', //reporter flipped by sled
+  'https://www.youtube.com/shorts/Z_Nf0s-NRAI', //motorcycle jumps that keep getting longer
   'https://www.tiktok.com/@memesessentials/video/7313668522247294250', //beetle fight
   'https://twitter.com/stopbeingthem/status/1542575842584174592' //Norris getting bopped in the face by Ricciardo to F1 theme
 ]
