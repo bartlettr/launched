@@ -31,13 +31,12 @@ var buttonNames = [
   'LAUNCH',
   'YEET',
   'BLAST OFF',
-  '3...2...1...🚀'
+  '3...2...1...'
 ]
 
 function button() {
   var randomNumber1 = Math.floor(Math.random() * (buttonNames.length));
-  document.getElementById('buttonName').value = buttonNames[randomNumber1];
-  //var buttonValue = buttonNames[randomNumber1];
+  document.getElementById('buttonName').value = buttonNames[randomNumber1]; //code from https://stackoverflow.com/questions/15681764/pass-a-variable-as-an-attribute-to-an-html-button
 }
 
 function newLink() {
