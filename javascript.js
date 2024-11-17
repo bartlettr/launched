@@ -30,7 +30,8 @@ var links = [
 var buttonNames = [
   'LAUNCH',
   'YEET',
-  'BLAST OFF'
+  'BLAST OFF',
+  '3...2...1...🚀'
 ]
 
 function button() {
