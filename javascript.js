@@ -16,9 +16,10 @@ var links = [
   'https://www.youtube.com/shorts/VWFA2ZTB8kw', //people launching a guy on a trampoline
   'https://www.youtube.com/watch?v=hgeviZ7rfdQ', //kid (and boot) getting launched snow tubing
   'https://www.youtube.com/watch?v=cs8gamnMIS0', //medieval trebuchet
-  'https://www.youtube.com/shorts/X8StCIy300I',
+  'https://www.youtube.com/shorts/X8StCIy300I', 
   'https://www.youtube.com/watch?v=JWUyEl9qnh8', //man launches ball while diving
   'https://www.youtube.com/watch?v=dBkQngrwXqg&t=48s', //Good Place dog into the sun
+  'https://www.instagram.com/reel/DBJblVWqmJ1/?igsh=MXF4NjQzd2ZxZjVxbg%3D%3D', //rabbit jumping
   'https://www.youtube.com/watch?v=QKMkhCsgsas', //wingsuit flight in Alps
   'https://www.youtube.com/watch?v=RH1hZ7ECNok', //insanely high blob launch
   'https://www.youtube.com/watch?v=4B-kMtpGpn4', //reporter flipped by sled
