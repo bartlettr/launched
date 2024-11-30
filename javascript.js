@@ -16,6 +16,7 @@ var links = [
   'https://www.youtube.com/shorts/VWFA2ZTB8kw', //people launching a guy on a trampoline
   'https://www.youtube.com/watch?v=hgeviZ7rfdQ', //kid (and boot) getting launched snow tubing
   'https://www.youtube.com/watch?v=cs8gamnMIS0', //medieval trebuchet
+  'https://youtu.be/-OZjHjJToVo?si=DTBBtTY1jbz9NvK4', //Amazing Race watermelon launch
   'https://www.youtube.com/shorts/X8StCIy300I', 
   'https://www.youtube.com/watch?v=JWUyEl9qnh8', //man launches ball while diving
   'https://www.youtube.com/watch?v=dBkQngrwXqg&t=48s', //Good Place dog into the sun
