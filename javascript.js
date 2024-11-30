@@ -7,6 +7,7 @@ var links = [
   'https://www.youtube.com/watch?v=-u7hMRHkzlI', //kid ejected off tube behind surf boat
   'https://www.youtube.com/watch?v=NMpAE4L7n2Y', //catapult a Citroen
   'https://www.youtube.com/watch?v=RaFwyrN8M0U', //ship launch
+  'https://www.youtube.com/shorts/M07SnTRRgL8', //bull vs bubble ball
   'https://www.instagram.com/reel/C7xpk8oNx90/?igsh=MWhsNGdrd2JibWhm', //small child on trampoline
   'https://www.youtube.com/shorts/VzY3WQhJc5U', //trampoline kid
   'https://www.youtube.com/watch?v=4LMuk4gAkqc', //Super Dave touchdown to dollars
