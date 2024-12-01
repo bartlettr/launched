@@ -20,12 +20,14 @@ var links = [
   'https://youtu.be/-OZjHjJToVo?si=DTBBtTY1jbz9NvK4', //Amazing Race watermelon launch
   'https://www.youtube.com/shorts/X8StCIy300I', 
   'https://www.youtube.com/watch?v=JWUyEl9qnh8', //man launches ball while diving
+  'https://www.instagram.com/reel/DCbsfAbopAr/?igsh=MThoM3NucTBmYjNmdw%3D%3D', //officer testing slide
   'https://www.youtube.com/watch?v=dBkQngrwXqg&t=48s', //Good Place dog into the sun
   'https://www.instagram.com/reel/DBJblVWqmJ1/?igsh=MXF4NjQzd2ZxZjVxbg%3D%3D', //rabbit jumping
   'https://www.youtube.com/watch?v=QKMkhCsgsas', //wingsuit flight in Alps
   'https://www.youtube.com/watch?v=RH1hZ7ECNok', //insanely high blob launch
   'https://www.youtube.com/watch?v=4B-kMtpGpn4', //reporter flipped by sled
   'https://www.youtube.com/shorts/Z_Nf0s-NRAI', //motorcycle jumps that keep getting longer
+  'https://www.youtube.com/watch?v=Az6uaYtdEVM', //bird knocks turtle off shelf
   'https://www.tiktok.com/@memesessentials/video/7313668522247294250', //beetle fight
   'https://twitter.com/stopbeingthem/status/1542575842584174592' //Norris getting bopped in the face by Ricciardo to F1 theme
 ]
