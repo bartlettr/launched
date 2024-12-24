@@ -24,9 +24,11 @@ var links = [
   'https://www.instagram.com/reel/DCbsfAbopAr/?igsh=MThoM3NucTBmYjNmdw%3D%3D', //officer testing slide
   'https://www.youtube.com/watch?v=dBkQngrwXqg&t=48s', //Good Place dog into the sun
   'https://www.instagram.com/reel/DBJblVWqmJ1/?igsh=MXF4NjQzd2ZxZjVxbg%3D%3D', //rabbit jumping
+  'https://www.instagram.com/reel/DBhP547ixqh/?igsh=MWdmbmNobjJ0b3cwcw==', //child launching toy rocket
   'https://www.youtube.com/watch?v=QKMkhCsgsas', //wingsuit flight in Alps
   'https://www.youtube.com/watch?v=RH1hZ7ECNok', //insanely high blob launch
   'https://www.youtube.com/watch?v=4B-kMtpGpn4', //reporter flipped by sled
+  'https://www.instagram.com/reel/DDvCDV7yKjm/?igsh=MXZpMmR6anBjdTQzZQ==', //child disappears on sled run
   'https://www.youtube.com/shorts/Z_Nf0s-NRAI', //motorcycle jumps that keep getting longer
   'https://www.instagram.com/reel/DDUe0zRRaXc/?igsh=MTltanRzMGRjMXQxcA%3D%3D', //Christmas tree launcher
   'https://www.youtube.com/watch?v=Az6uaYtdEVM', //bird knocks turtle off shelf
