@@ -33,6 +33,7 @@ var links = [
   'https://www.instagram.com/reel/DDUe0zRRaXc/?igsh=MTltanRzMGRjMXQxcA%3D%3D', //Christmas tree launcher
   'https://www.youtube.com/watch?v=Az6uaYtdEVM', //bird knocks turtle off shelf
   'https://www.tiktok.com/@memesessentials/video/7313668522247294250', //beetle fight
+  'https://www.reddit.com/r/Damnthatsinteresting/comments/1hxt9hv/man_test_power_of_different_firework/', //Man tests power of different fireworks
   'https://twitter.com/stopbeingthem/status/1542575842584174592' //Norris getting bopped in the face by Ricciardo to F1 theme
 ]
 
